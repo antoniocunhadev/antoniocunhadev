@@ -25,7 +25,4 @@
   <img align="center" alt="zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
   </div> <br/>
           
-
-![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=antoniocunhadev&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocunhadev&layout=compact) 
-
 ![Gif](https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47c2z71cdo1lzgtgf4nznv2chniyt79in7eqt3bxes&rid=giphy.gif&ct=g)
