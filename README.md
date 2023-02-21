@@ -1,7 +1,7 @@
 #### 🌎 Olá, eu sou Antonio. 
-<div>
-<img align="center" alt="linkedin" width=100px src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /> 
-</div>
+
+<img align="center" alt="linkedin" width=30px src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /> 
+
 
 🖥️ Sou Graduando em Sistemas para Internet na Faculdade Descomplica e estudante de Desenvolvimento Web na Trybe.
 
