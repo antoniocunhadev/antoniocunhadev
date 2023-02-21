@@ -1,18 +1,15 @@
  ## 🌎 Olá, eu sou Antonio.
 
-<div>
-  <h4>Me encontre no linkedIn</h4>
-<img align="center" alt="linkedin" width=30px src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /> 
-</div>
-
-🖥️ Sou Graduando em Sistemas para Internet na Faculdade Descomplica e estudante de Desenvolvimento Web na Trybe.
+🖥️ Sou Graduando em Sistemas para Internet na Faculdade Descomplica e estudante de Desenvolvimento Web fullstack na Trybe. 🧑‍💻
 
 ##### 🦾 Tecnologias que uso no meu dia a dia:
   
   <div>
-  <img align="center" alt="html5" width=100px src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
-  <img align="center" alt="css" width=100px src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
-  <img align="center" alt="js" width=100px src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" />
+  <img align="center" alt="html5" width=50px src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
+  <img align="center" alt="css" width=50px src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
+  <img align="center" alt="js" width=50px src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" />
+  <img align="center" alt="jest" width=50px src="https://cdn.worldvectorlogo.com/logos/jest-2.svg" />
+  <img align="center" alt="jest" width=50px src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
   </div> 
   
 ##### 🛠️ Ferramentas que uso no meu dia a dia: 
@@ -25,5 +22,11 @@
   <img align="center" alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
   <img align="center" alt="zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
   </div> <br/>
+  
+  
+  [Me encontre no linkedIn: <img align="center" alt="linkedin" width=30px src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /> ](https://www.linkedin.com/in/antoniocunhadev/)
+
+
+
           
 ![Gif](https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47c2z71cdo1lzgtgf4nznv2chniyt79in7eqt3bxes&rid=giphy.gif&ct=g)
