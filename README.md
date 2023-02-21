@@ -1,6 +1,6 @@
 #### 🌎 Olá, eu sou Antonio. 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniocunhadev?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BwmNNo5YQRbCcjnvt%2F%2FXeSg%3D%3D)
+[![Linkedin](https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg)
 
 🖥️ Sou Graduando em Sistemas para Internet na Faculdade Descomplica e estudante de Desenvolvimento Web na Trybe.
 
