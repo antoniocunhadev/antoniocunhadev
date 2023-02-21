@@ -11,7 +11,7 @@
   <div>
   <img align="center" alt="html5" width=100px src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
   <img align="center" alt="css" width=100px src="https://cdn.worldvectorlogo.com/logos/css-3.svg" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img align="center" alt="js" width=100px src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" />
   </div> 
   
 ##### 🛠️ Ferramentas que uso no meu dia a dia: 
