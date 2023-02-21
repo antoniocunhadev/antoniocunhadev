@@ -1,8 +1,8 @@
  ## 🌎 Olá, eu sou Antonio.
 
-🖥️ Sou Graduando em Sistemas para Internet na Faculdade Descomplica e estudante de Desenvolvimento Web fullstack na Trybe. 🧑‍💻
+🖥️ Sou Graduando em Sistemas para Internet na Faculdade Descomplica e estudante de Desenvolvimento Web fullstack na Trybe. 🧑‍💻 <br/>
 
-##### 🦾 Tecnologias que uso no meu dia a dia:
+##### 🦾 Tecnologias que uso no meu dia a dia: <br/>
   
   <div>
   <img align="center" alt="html5" width=50px src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
@@ -10,21 +10,21 @@
   <img align="center" alt="js" width=50px src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" />
   <img align="center" alt="jest" width=50px src="https://cdn.worldvectorlogo.com/logos/jest-2.svg" />
   <img align="center" alt="jest" width=50px src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
-  </div> 
-  
-##### 🛠️ Ferramentas que uso no meu dia a dia: 
-
-  <div>
-  <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img align="center" alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img align="center" alt="notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img align="center" alt="trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
-  <img align="center" alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-  <img align="center" alt="zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
   </div> <br/>
   
+##### 🛠️ Ferramentas que uso no meu dia a dia: <br/>
+
+  <div>
+  <img align="center" alt="github" width=50px src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
+  <img align="center" alt="vscode" width=50px src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
+  <img align="center" alt="notion" width=50px src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg" />
+  <img align="center" alt="trello" width=50px src="https://cdn.worldvectorlogo.com/logos/trello.svg" />
+  <img align="center" alt="slack"  width=50px src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" />
+  <img align="center" alt="zoom"   width=50px src="https://cdn.worldvectorlogo.com/logos/zoom-5.svg" />
+  </div> <br/><br/>
   
-  [Me encontre no linkedIn: <img align="center" alt="linkedin" width=30px src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /> ](https://www.linkedin.com/in/antoniocunhadev/)
+  
+  Me encontre no linkedIn: [ <img align="center" alt="linkedin" width=30px src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /> ](https://www.linkedin.com/in/antoniocunhadev/)
 
 
 
