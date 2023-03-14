@@ -1,8 +1,8 @@
  # 🌎 Olá, eu sou Antonio.
 
-🖥️ Estou cursando Sistemas para Internet na Faculdade Descomplica e também Desenvolvimento Web fullstack na Trybe. 🧑‍💻 <br/>
+🚀 Estou cursando Sistemas para Internet na Faculdade Descomplica e também Desenvolvimento Web fullstack na Trybe. 🧑‍💻 <br/>
 
-##### 🦾 Tecnologias que uso no meu dia a dia: <br/>
+### 🦾 Tecnologias que uso no meu dia a dia: <br/>
   
   <div>
   <img align="center" alt="html5" width=50px src="https://cdn.worldvectorlogo.com/logos/html-1.svg" />
@@ -12,7 +12,7 @@
   <img align="center" alt="jest" width=50px src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
   </div> <br/>
   
-##### 🛠️ Ferramentas que uso no meu dia a dia: <br/>
+### 🛠️ Ferramentas que uso no meu dia a dia: <br/>
 
   <div>
   <img align="center" alt="github" width=50px src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
@@ -24,9 +24,7 @@
   </div> <br/><br/>
   
   
-  Me encontre no linkedIn: [ <img align="center" alt="linkedin" width=30px src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /> ](https://www.linkedin.com/in/antoniocunhadev/)
-
-
-
+### Me encontre no linkedIn!
+ Clique aqui 👉 [ <img align="center" alt="linkedin" width=30px src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" /> ](https://www.linkedin.com/in/antoniocunhadev/)
           
-![Gif](https://media0.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif?cid=ecf05e47c2z71cdo1lzgtgf4nznv2chniyt79in7eqt3bxes&rid=giphy.gif&ct=g)
+![Gif](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47f2hzbxcowfr0x9lit1l7d3jvfqkyw2koqkuqlhi0&rid=giphy.gif&ct=g)
