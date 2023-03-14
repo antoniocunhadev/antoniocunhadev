@@ -1,6 +1,6 @@
- ## 🌎 Olá, eu sou Antonio.
+ # 🌎 Olá, eu sou Antonio.
 
-🖥️ Sou Graduando em Sistemas para Internet na Faculdade Descomplica e estudante de Desenvolvimento Web fullstack na Trybe. 🧑‍💻 <br/>
+🖥️ Estou cursando Sistemas para Internet na Faculdade Descomplica e também Desenvolvimento Web fullstack na Trybe. 🧑‍💻 <br/>
 
 ##### 🦾 Tecnologias que uso no meu dia a dia: <br/>
   
